@@ -8,7 +8,11 @@
     "red": 1
   },
   "booleanOperation": 0,
+<<<<<<< HEAD
   "changeIdentifier": 182,
+=======
+  "changeIdentifier": 178,
+>>>>>>> parent of c9b07f3... Purple Gradient
   "do_objectID": "EEB57D2C-CF23-45D0-A202-D9F97CA99572",
   "exportOptions": {
     "_class": "exportOptions",
