@@ -1,15 +1,7 @@
 {
-  "_class": "symbolMaster",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "booleanOperation": 0,
-  "changeIdentifier": 181,
-  "do_objectID": "EEB57D2C-CF23-45D0-A202-D9F97CA99572",
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "8192D5EB-5EE3-4DE2-AF84-E097831AD614",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,12 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 60,
-    "width": 60,
-    "x": 100,
+    "height": 0,
+    "width": 0,
+    "x": 0,
     "y": 0
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -35,41 +26,31 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "ABA87F93-06E3-473B-8358-F02DF14F42E1"
+      "class": "symbolMaster",
+      "id": "EEB57D2C-CF23-45D0-A202-D9F97CA99572"
     }
   ],
-  "name": "App Icon 60 x 60",
-  "nameIsFixed": true,
-  "resizesContent": true,
+  "name": "Symbols",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "2D66D59E-32EF-45D7-83C5-D5AA52322BFB",
-  "userInfo": {
-    "io.magicsketch.mirror": {
-      "highestQuality": 1
-    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
