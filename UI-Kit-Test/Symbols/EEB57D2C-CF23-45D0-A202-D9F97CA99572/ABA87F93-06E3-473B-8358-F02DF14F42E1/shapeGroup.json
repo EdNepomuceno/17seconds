@@ -67,7 +67,11 @@
           "elipseLength": 1,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           "from": "{0.0025781251024454832, 0.49750000238418579}",
+=======
+          "from": "{0.5, 0}",
+>>>>>>> parent of c9b07f3... Purple Gradient
 =======
           "from": "{0.5, 0}",
 >>>>>>> parent of c9b07f3... Purple Gradient
@@ -94,6 +98,7 @@
                 "alpha": 1,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "blue": 0.993859589099884,
                 "green": 0.628136157989502,
                 "red": 0.3244115710258484
@@ -118,13 +123,22 @@
                 "green": 0.4202542304992676,
                 "red": 0.968022882938385
 >>>>>>> parent of c9b07f3... Purple Gradient
+=======
+                "blue": 0.1101252809166908,
+                "green": 0.4202542304992676,
+                "red": 0.968022882938385
+>>>>>>> parent of c9b07f3... Purple Gradient
               },
               "position": 1
             }
           ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           "to": "{1.0125781297683716, 0.49750000238418579}"
+=======
+          "to": "{0.5, 1}"
+>>>>>>> parent of c9b07f3... Purple Gradient
 =======
           "to": "{0.5, 1}"
 >>>>>>> parent of c9b07f3... Purple Gradient
